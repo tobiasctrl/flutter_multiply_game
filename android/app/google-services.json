@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855309672741",
+    "firebase_url": "https://multiply-16c20.firebaseio.com",
+    "project_id": "multiply-16c20",
+    "storage_bucket": "multiply-16c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855309672741:android:ef0b16289fb61658653acc",
+        "android_client_info": {
+          "package_name": "com.miceox.multiply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855309672741-etbgspq7vn2llgmf0onrlfd2726k23b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsezWMMfMdJAcG3f195-jknyi_qGUHrdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855309672741-etbgspq7vn2llgmf0onrlfd2726k23b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
